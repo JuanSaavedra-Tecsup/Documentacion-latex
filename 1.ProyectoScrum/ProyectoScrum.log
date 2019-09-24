@@ -1,0 +1,1075 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.18)  24 SEP 2019 17:00
+entering extended mode
+**./ProyectoScrum.tex
+(ProyectoScrum.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cl
+s"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.cl
+o"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.
+sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvips
+nam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
+.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\
+spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen105
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
+\bbl@dirlevel=\count90
+)
+\es@quottoks=\toks17
+\es@quotdepth=\count91
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.sty"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdf
+texcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
+warerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
+cmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifp
+df.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etool
+box.sty"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
+ions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
+etkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
+xcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
+sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count93
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
+def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.st
+y"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count94
+\c@listtotal=\count95
+\c@listcount=\count96
+\c@liststart=\count97
+\c@liststop=\count98
+\c@citecount=\count99
+\c@citetotal=\count100
+\c@multicitecount=\count101
+\c@multicitetotal=\count102
+\c@instcount=\count103
+\c@maxnames=\count104
+\c@minnames=\count105
+\c@maxitems=\count106
+\c@minitems=\count107
+\c@citecounter=\count108
+\c@maxcitecounter=\count109
+\c@savedcitecounter=\count110
+\c@uniquelist=\count111
+\c@uniquename=\count112
+\c@refsection=\count113
+\c@refsegment=\count114
+\c@maxextratitle=\count115
+\c@maxextratitleyear=\count116
+\c@maxextraname=\count117
+\c@maxextradate=\count118
+\c@maxextraalpha=\count119
+\c@abbrvpenalty=\count120
+\c@highnamepenalty=\count121
+\c@lownamepenalty=\count122
+\c@maxparens=\count123
+\c@parenlevel=\count124
+\blx@tempcnta=\count125
+\blx@tempcntb=\count126
+\blx@tempcntc=\count127
+\blx@maxsection=\count128
+\blx@maxsegment@0=\count129
+\blx@notetype=\count130
+\blx@parenlevel@text=\count131
+\blx@parenlevel@foot=\count132
+\blx@sectionciteorder@0=\count133
+\blx@entrysetcounter=\count134
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\biblabelsep=\skip45
+\bibitemsep=\skip46
+\bibnamesep=\skip47
+\bibinitsep=\skip48
+\bibparsep=\skip49
+\bibhang=\skip50
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\blx@langwohyphens=\language82
+\c@mincomprange=\count135
+\c@maxcomprange=\count136
+\c@mincompwidth=\count137
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-d
+m.def"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count138
+\c@savedafterword=\count139
+\c@annotator=\count140
+\c@savedannotator=\count141
+\c@author=\count142
+\c@savedauthor=\count143
+\c@bookauthor=\count144
+\c@savedbookauthor=\count145
+\c@commentator=\count146
+\c@savedcommentator=\count147
+\c@editor=\count148
+\c@savededitor=\count149
+\c@editora=\count150
+\c@savededitora=\count151
+\c@editorb=\count152
+\c@savededitorb=\count153
+\c@editorc=\count154
+\c@savededitorc=\count155
+\c@foreword=\count156
+\c@savedforeword=\count157
+\c@holder=\count158
+\c@savedholder=\count159
+\c@introduction=\count160
+\c@savedintroduction=\count161
+\c@namea=\count162
+\c@savednamea=\count163
+\c@nameb=\count164
+\c@savednameb=\count165
+\c@namec=\count166
+\c@savednamec=\count167
+\c@translator=\count168
+\c@savedtranslator=\count169
+\c@shortauthor=\count170
+\c@savedshortauthor=\count171
+\c@shorteditor=\count172
+\c@savedshorteditor=\count173
+\c@labelname=\count174
+\c@savedlabelname=\count175
+\c@institution=\count176
+\c@savedinstitution=\count177
+\c@lista=\count178
+\c@savedlista=\count179
+\c@listb=\count180
+\c@savedlistb=\count181
+\c@listc=\count182
+\c@savedlistc=\count183
+\c@listd=\count184
+\c@savedlistd=\count185
+\c@liste=\count186
+\c@savedliste=\count187
+\c@listf=\count188
+\c@savedlistf=\count189
+\c@location=\count190
+\c@savedlocation=\count191
+\c@organization=\count192
+\c@savedorganization=\count193
+\c@origlocation=\count194
+\c@savedoriglocation=\count195
+\c@origpublisher=\count196
+\c@savedorigpublisher=\count197
+\c@publisher=\count198
+\c@savedpublisher=\count199
+\c@language=\count266
+\c@savedlanguage=\count267
+\c@origlanguage=\count268
+\c@savedoriglanguage=\count269
+\c@pageref=\count270
+\c@savedpageref=\count271
+\shorthandwidth=\skip51
+\shortjournalwidth=\skip52
+\shortserieswidth=\skip53
+\shorttitlewidth=\skip54
+\shortauthorwidth=\skip55
+\shorteditorwidth=\skip56
+\locallabelnumberwidth=\skip57
+\locallabelalphawidth=\skip58
+\localshorthandwidth=\skip59
+\localshortjournalwidth=\skip60
+\localshortserieswidth=\skip61
+\localshorttitlewidth=\skip62
+\localshortauthorwidth=\skip63
+\localshorteditorwidth=\skip64
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-c
+ompat.def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.def"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count272
+\c@textcitetotal=\count273
+\c@textcitemaxnames=\count274
+\c@biburlbigbreakpenalty=\count275
+\c@biburlbreakpenalty=\count276
+\c@biburlnumpenalty=\count277
+\c@biburlucpenalty=\count278
+\c@biburllcpenalty=\count279
+\biburlbigskip=\muskip11
+\biburlnumskip=\muskip12
+\biburlucskip=\muskip13
+\biburllcskip=\muskip14
+\c@smartand=\count280
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\n
+umeric.bbx"
+File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\s
+tandard.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count281
+\c@bbx:relatedtotal=\count282
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\n
+umeric.cbx"
+File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.cfg"
+File: biblatex.cfg 
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendla
+yer\tikz.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer
+\pgf.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgfrcs.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-common.tex"
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-common-lists.tex"))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-latex.def"
+\pgfutil@abb=\box27
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.st
+y"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revi
+sion.tex")
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer
+\pgfcore.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlaye
+r\pgfsys.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys.code.tex"
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\pgf@xd=\dimen116
+\pgf@yd=\dimen117
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count287
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgf.cfg"
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count288
+\pgfsyssoftpath@bigbuffer@items=\count289
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcore.code.tex"
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathcalc.code.tex"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathutil.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathparser.code.tex"
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count290
+\pgfmath@box=\box28
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.code.tex"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex")))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count291
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+int.code.tex")
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count292
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen137
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen141
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count293
+\pgf@shadingcount=\count294
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box32
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box33
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgffor.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgfkeys.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex"))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfma
+th.sty"
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex"))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgffor.code.tex"
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex")
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz\tikz.code.tex"
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count295
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikz@lastmovetox=\dimen152
+\tikz@lastmovetoy=\dimen153
+\tikzleveldistance=\dimen154
+\tikzsiblingdistance=\dimen155
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count296
+\tikznumberofchildren=\count297
+\tikznumberofcurrentchild=\count298
+\tikz@fig@count=\count299
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count300
+\pgfmatrixcurrentcolumn=\count301
+\pgf@matrix@numberofcolumns=\count302
+)
+\tikz@expandcount=\count303
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\epsfi
+g.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen156
+\epsfysize=\dimen157
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multi
+row.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip65
+\multirow@cntb=\count304
+\multirow@dima=\skip66
+\bigstrutjot=\dimen158
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\color
+tbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.st
+y"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen159
+\ar@mcellbox=\box38
+\extrarowheight=\dimen160
+\NC@list=\toks30
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box39
+)
+\everycr=\toks31
+\minrowclearance=\skip69
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.st
+y"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks32
+\float@box=\box40
+\@float@everytoks=\toks33
+\@floatcapt=\box41
+)
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\s
+panish.lbx"
+File: spanish.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count306
+\@quotereset=\count307
+(ProyectoScrum.aux (includes/cover.aux)
+LaTeX Info: Redefining \sptext on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ (capitulos/1_0_introduccion.aux)
+(capitulos/2_0_vision.aux) (capitulos/3_0_equipo.aux)
+(capitulos/4_0_product_backlog.aux) (capitulos/5_0_criterios_terminacion.aux)
+(capitulos/6_0_prototipos.aux) (capitulos/7_0_epicas.aux)
+(capitulos/8_0_historias_usuarios.aux) (capitulos/9_0_planificacion.aux)
+(capitulos/10_0_conclusiones.aux) (capitulos/11_0_recomendaciones.aux)
+(capitulos/12_0_referencias_bibliograficas.aux) (capitulos/13_0_anexos.aux))
+\openout1 = `ProyectoScrum.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen161
+\scratchbox=\box42
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen162
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks35
+)
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
+t.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\JSaavedra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \sptext on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `ProyectoScrum.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ProyectoScrum.bbl' not found.
+
+No file ProyectoScrum.bbl.
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
+ABD: EveryShipout initializing macros
+\openout2 = `includes/cover.aux'.
+
+ (includes/cover.tex
+<img/logo_tecsup_final.jpg, id=4, 1061.4054pt x 369.7815pt>
+File: img/logo_tecsup_final.jpg Graphic file (type jpg)
+<use img/logo_tecsup_final.jpg>
+Package pdftex.def Info: img/logo_tecsup_final.jpg  used on input line 3.
+(pdftex.def)             Requested size: 272.99881pt x 95.10835pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 5.
+
+[1
+
+
+{C:/Users/JSaavedra/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/l
+ogo_tecsup_final.jpg>]) (ProyectoScrum.toc
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
+\tf@toc=\write5
+\openout5 = `ProyectoScrum.toc'.
+
+ [1
+
+
+] (ProyectoScrum.lof
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+\tf@lof=\write6
+\openout6 = `ProyectoScrum.lof'.
+
+ [2
+
+]
+(ProyectoScrum.lot
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+\tf@lot=\write7
+\openout7 = `ProyectoScrum.lot'.
+
+ [3
+
+]
+\openout2 = `capitulos/1_0_introduccion.aux'.
+
+ (capitulos/1_0_introduccion.tex
+Cap\'{\i }tulo 1.
+) [4
+
+
+]
+\openout2 = `capitulos/2_0_vision.aux'.
+
+ (capitulos/2_0_vision.tex
+Cap\'{\i }tulo 2.
+) [5
+
+
+
+]
+\openout2 = `capitulos/3_0_equipo.aux'.
+
+ (capitulos/3_0_equipo.tex
+Cap\'{\i }tulo 3.
+) [6
+
+
+
+]
+\openout2 = `capitulos/4_0_product_backlog.aux'.
+
+ (capitulos/4_0_product_backlog.tex
+Cap\'{\i }tulo 4.
+
+Overfull \hbox (7.6306pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/bx/n/12 ITEM| 
+ []
+
+
+Overfull \hbox (13.3834pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/bx/n/12 Prioridad| 
+ []
+
+
+Overfull \hbox (102.5897pt too wide) in paragraph at lines 3--18
+[][] 
+ []
+
+) [7
+
+
+
+]
+Overfull \vbox (100.13762pt too high) has occurred while \output is active []
+
+
+[8]
+\openout2 = `capitulos/5_0_criterios_terminacion.aux'.
+
+ (capitulos/5_0_criterios_terminacion.tex
+Cap\'{\i }tulo 5.
+) [9
+
+
+
+]
+\openout2 = `capitulos/6_0_prototipos.aux'.
+
+ (capitulos/6_0_prototipos.tex
+Cap\'{\i }tulo 6.
+) [10
+
+
+
+]
+\openout2 = `capitulos/7_0_epicas.aux'.
+
+ (capitulos/7_0_epicas.tex
+Cap\'{\i }tulo 7.
+) [11
+
+
+
+]
+\openout2 = `capitulos/8_0_historias_usuarios.aux'.
+
+ (capitulos/8_0_historias_usuarios.tex
+Cap\'{\i }tulo 8.
+) [12
+
+
+
+]
+\openout2 = `capitulos/9_0_planificacion.aux'.
+
+ (capitulos/9_0_planificacion.tex
+Cap\'{\i }tulo 9.
+) [13
+
+
+
+]
+\openout2 = `capitulos/10_0_conclusiones.aux'.
+
+ (capitulos/10_0_conclusiones.tex
+Cap\'{\i }tulo 10.
+) [14
+
+
+
+]
+\openout2 = `capitulos/11_0_recomendaciones.aux'.
+
+ (capitulos/11_0_recomendaciones.tex
+Cap\'{\i }tulo 11.
+) [15
+
+
+
+]
+\openout2 = `capitulos/12_0_referencias_bibliograficas.aux'.
+
+ (capitulos/12_0_referencias_bibliograficas.tex
+Cap\'{\i }tulo 12.
+) [16
+
+
+
+]
+\openout2 = `capitulos/13_0_anexos.aux'.
+
+ (capitulos/13_0_anexos.tex
+Cap\'{\i }tulo 13.
+) [17
+
+
+
+] (ProyectoScrum.aux (includes/cover.aux)
+LaTeX Info: Redefining \sptext on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ (capitulos/1_0_introduccion.aux) (capitulos/2_0_vision.aux) (capitulos/3_0_equ
+ipo.aux)
+(capitulos/4_0_product_backlog.aux) (capitulos/5_0_criterios_terminacion.aux)
+(capitulos/6_0_prototipos.aux) (capitulos/7_0_epicas.aux)
+(capitulos/8_0_historias_usuarios.aux) (capitulos/9_0_planificacion.aux)
+(capitulos/10_0_conclusiones.aux) (capitulos/11_0_recomendaciones.aux)
+(capitulos/12_0_referencias_bibliograficas.aux) (capitulos/13_0_anexos.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'ProyectoScrum.run.xml'.
+\openout1 = `ProyectoScrum.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19875 strings out of 492895
+ 401284 string characters out of 3121867
+ 857230 words of memory out of 3000000
+ 23369 multiletter control sequences out of 15000+200000
+ 9449 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,48p,821b,1852s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/JSaavedra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/JSaavedra/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/JSaavedra/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/JSaavedra/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ProyectoScrum.pdf (18 pages, 853774 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+
